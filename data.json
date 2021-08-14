@@ -1,0 +1,53 @@
+{
+  "game": [
+    {
+      "id": "juegoUno-1",
+      "juego": "1",
+      "pregunta": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+      "image": "https://res.cloudinary.com/daxur/image/upload/v1628901588/caracters_sdj8e2.png",
+      "respuesta": ["Main", "Section", "Header"]
+    },
+    {
+      "id": "juegoUno-2",
+      "juego": "1",
+      "pregunta": "¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
+      "image": "https://res.cloudinary.com/daxur/image/upload/v1628901588/caracters2_xargas.png",
+      "respuesta": ["<br>", "<script>", "<styles>"]
+    },
+    {
+      "id": "juegoUno-3",
+      "juego": "1",
+      "pregunta": "¿Qué significa DRY?",
+      "image": "https://res.cloudinary.com/daxur/image/upload/v1628901588/caracters3_clm3v7.png",
+      "respuesta": [
+        "Don't reapeat yellow",
+        "Don't repeat yourself",
+        "Don't recicle year"
+      ]
+    }
+  ],
+  "game2": [
+    {
+      "id": "juegoDos-1",
+      "juego": "2",
+      "pregunta": "Organiza la estructura de un documento HTML5",
+      "image": "",
+      "respuesta": [
+        "<!DOCTYPE html>",
+        "<body> </body>",
+        "<head> </head>",
+        "<html>",
+        "</html>"
+      ]
+    }
+  ],
+  "game3": [
+    {
+      "id": "juegoTres-1",
+      "juego": "3",
+      "pregunta": "¿Qué tecnologías pertenece al MEVN Stack?",
+      "image": "",
+      "respuesta": ["Angular", "Vue.js", "Windows", "Katlin"]
+    }
+  ]
+}
